@@ -1,4 +1,5 @@
 theme: jekyll-theme-midnight
 title: Adam Mechtley
 description: Games, Tools, Usability, and Learning
-show_downloads: "false"
+show_downloads: false
+google_analytics: UA-3735217-1
