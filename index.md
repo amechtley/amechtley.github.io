@@ -1,3 +1,7 @@
+---
+title: Adam Mechtley
+---
+
 # About Me
 
 I have worked as a developer in the games industry since 2004. I am currently a software developer at [Unity](https://unity3d.com/), where I am working on our new [data-oriented tech stack](https://unity.com/unity/features/job-system-ECS).
