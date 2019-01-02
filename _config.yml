@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
-site.title: Adam Mechtley
-site.show_downloads: false
+title: Adam Mechtley
+description: Personal site for Adam Mechtley
+show_downloads: false
