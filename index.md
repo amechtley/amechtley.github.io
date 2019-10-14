@@ -4,7 +4,7 @@ title: Adam Mechtley
 
 # About Me
 
-I have been a developer in the games industry since 2004. I am currently a software developer at [Unity](https://unity3d.com/), where I am working on our new [data-oriented tech stack](https://unity.com/dots).
+I have worked in the games industry since 2004, and am currently a lead software developer at [Unity Technologies](https://unity3d.com/) focused on physics, animation rigging, and data-oriented design. My professional work has focused on developer tools, usability, first-time user experience, and software development craftsmanship.
 
 I am also trained as a learning scientist, and hold a PhD from the University of Wisconsin–Madison focused on [design, informal, and creative education](https://ci.education.wisc.edu/ci/research/digital-media). My academic work has focused on design-based research related to epistemic cognition, argumentation, and learning in science- and engineering-based computer and board games.
 
