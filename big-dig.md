@@ -2,7 +2,9 @@
 title: The Big Dig
 ---
 
-![The Big Dig Logo](media/big-dig-logo.png)
+<p align="center">
+  <img src="media/big-dig-logo.png" alt="The Big Dig Logo"/>
+</p>
 
 # What is it?
 
