@@ -15,7 +15,7 @@ Anyone is free to make use of the materials provided here in accordance with the
 
 - Card Templates (not yet available)
 - Companion App (not yet available)
-- Rule Book
+- [Rule Book](media/big-dig-rules-0.0.1.pdf)
 - [Tutorial Video](https://youtu.be/6DR7aCYKMJ0)
 
 ## License
