@@ -10,4 +10,4 @@ I am also trained as a learning scientist, and hold a PhD from the University of
 
 * [My LinkedIn](https://www.linkedin.com/in/adammechtley/)
 * [Complex Play Lab](http://www.complexplay.org/)
-* [The Big Dig](big_dig.md)
+* [The Big Dig](big-dig.md)
