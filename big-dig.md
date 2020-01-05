@@ -2,23 +2,23 @@
 title: The Big Dig
 ---
 
-# The Big Dig
+![The Big Dig Logo](media/big-dig-logo.png)
 
-## What is it?
+# What is it?
 
 _The Big Dig_ is a digitally-augmented card game designed specifically for researching relationships between game design and epistemic cognition.
 Anyone is free to make use of the materials provided here in accordance with the license terms on this page.
 
-## Supplementary Materials
+# Supplementary Materials
 
-### Version 0.0.1
+## Version 0.0.1
 
 - Card Templates (not yet available)
 - Companion App (not yet available)
 - [Rule Book](media/big-dig-rules-0.0.1.pdf)
 - [Tutorial Video](https://youtu.be/6DR7aCYKMJ0)
 
-## License
+# License
 
 Copyright 2019 Adam Mechtley
 
